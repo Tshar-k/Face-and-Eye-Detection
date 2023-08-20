@@ -1,5 +1,5 @@
 
-# OpenCV projects
+# OpenCV Projects (face and eye detection)
 
 This Repository contains the project which is being made using OpenCV. 
 
