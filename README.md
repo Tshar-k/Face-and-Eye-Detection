@@ -12,9 +12,8 @@ Projects-
 * Human Eye Detection form live stream 
 
 
-## Screenshots
+## Screenshots<img width="955" alt="output of face_detection " src="https://github.com/Tshar-k/OpenCV/assets/117516567/51be7ec5-d509-4879-9072-658e0ba72ac4">
 
-![App Screenshot](file:///C:/Users/HP/OneDrive/Desktop/output%20of%20eye_detection%20.png)
 
-![App Screenshot](file:///C:/Users/HP/OneDrive/Desktop/output%20of%20face_detection%20.png)
 
+<img width="960" alt="output of eye_detection " src="https://github.com/Tshar-k/OpenCV/assets/117516567/f17082ce-1742-4566-a2a8-636d9a132663">
